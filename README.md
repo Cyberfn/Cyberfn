@@ -5,8 +5,7 @@
 - ⚙️ Estou estudando programação em Java,MySQL,Python e Banco de dados
 
 ### Formação:
-- Em andamento: Bacharelado em Ciência da Computação (FPB)
-
+- Em andamento: 
 <div>
  
  ### Conhecimentos em:
