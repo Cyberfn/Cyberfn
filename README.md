@@ -5,7 +5,7 @@
 - ⚙️ Estou estudando programação em Java,MySQL,Python e Banco de dados
 
 ### Formação:
-- Em andamento: 
+- Em andamento: Ciências da Computação(FPB)
 <div>
  
  ### Conhecimentos em:
@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+ 
  
  ### Contatos:
  
