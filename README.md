@@ -35,15 +35,13 @@ Bem vindo ao meu perfil GitHub
 <img src ="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 <div>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyberfn&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-
-<div>
-  <a href="https://github.com/Cyebrfn">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberfn&layout=compact&langs_count=7&theme=highcontrast"/>
+  <div align="center">
+  <a href="https://github.com/Cyberfn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyberfn&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberfn&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-
-
+    
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Cyberfn&theme=gotham&hide_border=true&area=true)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
 
