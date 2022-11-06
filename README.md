@@ -37,7 +37,13 @@ Bem vindo ao meu perfil GitHub
 <div>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyberfn&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+
+<div>
+  <a href="https://github.com/Cyebrfn">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberfn&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Cyberfn&theme=gotham&hide_border=true&area=true)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
