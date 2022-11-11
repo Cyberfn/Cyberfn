@@ -45,4 +45,3 @@ Bem vindo ao meu perfil GitHub
     
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Cyberfn&theme=gotham&hide_border=true&area=true)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
