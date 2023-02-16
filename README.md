@@ -12,7 +12,6 @@ Bem vindo ao meu perfil GitHub
 ## Formação:
 - Em andamento: Bacharelado em Ciência da Computação (FPB)
 - Em andamento: Desenvolvimento Web Completo pela Udemy
-- Em andamento: Introdução à Engenharia com Arduino pela Udemy    
 <div>
  
  ## Conhecimentos em:
