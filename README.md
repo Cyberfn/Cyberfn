@@ -5,9 +5,9 @@
     <a href="https://www.linkedin.com/in/fernando-nonato-014974236">Fernando Nonato 🖖🏻</a>
 </h1>
 
-<h2 alinhamento = centro>
-Bem vindo ao meu perfil GitHub
-
+<h2 align = "center">
+ Bem vindo ao meu perfil GitHub
+</h2>
 
 ##  Formação:
 - Em andamento: Bacharel em Ciência da Computação (FPB)
