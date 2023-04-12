@@ -11,8 +11,8 @@
 
 ##  Formação:
 - Em andamento: Bacharel em Ciência da Computação (FPB)
-- Concluído: Introdução à Engenharia com Arduino (Udemy)
 - Em andamento: Desenvolvimento Web Completo (Udemy)
+- Concluído: Introdução à Engenharia com Arduino (Udemy)
 <div>
  
 ## Conhecimentos em:
