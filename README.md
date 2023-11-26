@@ -23,7 +23,14 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
- 
+
+
+<br>
+  <center>
+  <a href="https://github.com/Cyberfn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberfn&layout=compact&langs_count=7&theme=midnight-purple"/>
+</center>
+      
 ##  Contatos:
  
 <a href = "mailto:fernandononatocco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
@@ -38,10 +45,7 @@
 <img src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 <div>
 
-<center>
-  <a href="https://github.com/Cyberfn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberfn&layout=compact&langs_count=7&theme=midnight-purple"/>
-</center>
+
 
  </div>
 
