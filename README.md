@@ -8,12 +8,6 @@
 <h2 align = "center">
  Bem vindo ao meu perfil GitHub
 </h2>
-
-##  Formação:
-- Em andamento: Bacharel em Ciência da Computação (FPB)
-- Em andamento: Desenvolvimento Web Completo (Udemy)
-- Concluído: Introdução à Engenharia com Arduino (Udemy)
-<div>
  
 ## Conhecimentos em:
   
