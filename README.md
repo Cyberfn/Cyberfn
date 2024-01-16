@@ -13,7 +13,7 @@
  <li>🚀 Encaro desafios como oportunidades de crescimento e tenho prazer em aprender novas tecnologias, mantendo-me sempre atualizado no dinâmico cenário tecnológico.</li><br>
 </p>
 
-<h2 align = "center">🎓Formações Acadêmica🎓</h2>
+<h2 align = "center">🎓Formações🎓</h2>
 
 <li align = "center">🎓 Bacharelado em Ciência da Computação -  FPB (Faculdade Internacional da Paraíba) - Em andamento ⚙️</li>
 <br>
