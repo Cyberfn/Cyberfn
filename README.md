@@ -5,7 +5,7 @@
 <h2 align = "center">Bem vindo ao meu perfil GitHub</h2>
 <div>
  
-## Conhecimentos em:
+<h2 align = "center">:brain: Conhecimentos :brain: </h2>
   <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -25,20 +25,22 @@
 </p>
 </center>
       
-##  Contatos:
- 
+<h2 align = "center">:envelope: Contatos :envelope:</h2>
+ <p align = "center">
 <a href = "mailto:fernandononatocco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
 <a href="https://www.linkedin.com/in/fernando-nonato-014974236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ </p>
 
 
-<h2> 🛠 Ferramentas que uso 🛠 </h2>
+<h2 align = "center"> 🛠 Ferramentas que uso 🛠 </h2>
+<p align = "center">
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 <img src ="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 <img src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-<div>
+</p>
 
-<br><p align="center"><b>Visitantes</b></p>  
+<p align="center"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cyberfn}/count.svg" /></p> 
 <br> 
