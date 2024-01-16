@@ -1,9 +1,31 @@
+<p> 
 <h1 align="center">
     Oi Tudo bem? Eu sou o
-    <a href="https://www.linkedin.com/in/fernando-nonato-014974236">Fernando Nonato 🖖🏻</a>
-</h1>
-<h2 align = "center">Bem vindo ao meu perfil GitHub</h2>
-<div>
+    <a href="https://www.linkedin.com/in/fernando-nonato-014974236">Fernando Nonato 🖖🏻</a></h1>
+    <h2 align = "center">Bem vindo ao meu perfil GitHub</h2>
+</p>
+
+<h2 align = "center">:man_technologist:Sobre mim:man_technologist:</h2>
+<p>
+    Olá! 👋 Sou o Fernando e, desde cedo, cultivo uma paixão constante por tecnologia, imergindo nas complexidades do desenvolvimento de software.<br>
+ <li>🖥️ Ao longo do tempo, desenvolvi um interesse sólido e duradouro por tecnologia, explorando minuciosamente o universo do desenvolvimento de software.</li><br>
+ <li>💡 Tenho uma atração especial pelas intricadas tecnologias de backend, onde busco incessantemente aprimorar minhas habilidades.</li><br>
+ <li>🚀 Encaro desafios como oportunidades de crescimento e tenho prazer em aprender novas tecnologias, mantendo-me sempre atualizado no dinâmico cenário tecnológico.</li><br>
+</p>
+
+<h2 align = "center">🎓Formações Acadêmica🎓</h2>
+
+<li align = "center">🎓 Bacharelado em Ciência da Computação -  FPB (Faculdade Internacional da Paraíba) - Em andamento ⚙️</li>
+<br>
+<li align = "center">🌐 Formação HTML Web Developer - DIO (Digital Innovation One) - Concluída :white_check_mark:</li>
+<br>
+<li align = "center">🖥️ Lógica de Programação - DIO (Digital Innovation One) - Concluída :white_check_mark:</li>
+<br>
+<li align = "center">:mechanical_arm: Introdução à Engenharia com Arduino - Udemy -Concluída :white_check_mark:</li>
+<br>
+<li align = "center">:elephant: PHP do Zero à Maestria - Udemy - Concluída :white_check_mark:</li>
+
+</p>
  
 <h2 align = "center">:brain: Conhecimentos :brain: </h2>
   <p align="center">
