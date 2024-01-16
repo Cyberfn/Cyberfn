@@ -1,8 +1,6 @@
 <p> 
 <h1 align="center">
-    Oi Tudo bem? Eu sou o
-    <a href="https://www.linkedin.com/in/fernando-nonato-014974236">Fernando Nonato 🖖🏻</a></h1>
-    <h2 align = "center">Bem vindo ao meu perfil GitHub</h2>
+    Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/fernando-nonato-014974236">Fernando Nonato 🖖🏻</a><br>Bem vindo ao meu perfil GitHub</h1>
 </p>
 
 <h2 align = "center">:man_technologist:Sobre mim:man_technologist:</h2>
