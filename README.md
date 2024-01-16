@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=280137&section=header&reversal=true"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=#3e1a4b&section=header&reversal=true"/>
 
 <p> 
 <h1 align="center">
@@ -66,4 +66,4 @@
 <p align="center"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cyberfn}/count.svg" /></p> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=280137&section=footer&reversal=true"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=#3e1a4b&section=footer&reversal=true"/>
