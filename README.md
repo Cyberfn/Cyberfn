@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=3e1a4b&section=header&reversal=true"/>
-
 <p> 
 <h1 align="center">
     Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/fernando-nonato-014974236">Fernando Nonato 🖖🏻</a><br>Bem vindo ao meu perfil GitHub</h1>
@@ -65,5 +63,3 @@
 
 <p align="center"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cyberfn}/count.svg" /></p> 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=3e1a4b&section=footer&reversal=false"/>
