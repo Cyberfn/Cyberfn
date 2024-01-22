@@ -7,7 +7,7 @@
 <p>
     Olá! 👋 Sou o Fernando e, desde cedo, cultivo uma paixão constante por tecnologia, imergindo nas complexidades do desenvolvimento de software.<br>
  <li>🖥️ Ao longo do tempo, desenvolvi um interesse sólido e duradouro por tecnologia, explorando minuciosamente o universo do desenvolvimento de software.</li><br>
- <li>💡 Tenho uma atração especial pelas intricadas tecnologias de backend, onde busco incessantemente aprimorar minhas habilidades.</li><br>
+ <li>💡 Tenho uma atração especial pelas intrincadas tecnologias de backend, onde busco incessantemente aprimorar minhas habilidades.</li><br>
  <li>🚀 Encaro desafios como oportunidades de crescimento e tenho prazer em aprender novas tecnologias, mantendo-me sempre atualizado no dinâmico cenário tecnológico.</li><br>
 </p>
 
