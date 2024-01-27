@@ -13,17 +13,16 @@
 
 <h2 align = "center">🎓Formações🎓</h2>
 
-<li align = "center">🎓 Bacharelado em Ciência da Computação -  FPB (Faculdade Internacional da Paraíba) - Em andamento ⚙️</li>
-<br>
-<li align = "center">🌐 Formação HTML Web Developer - DIO (Digital Innovation One) - Concluída :white_check_mark:</li>
-<br>
-<li align = "center">🖥️ Lógica de Programação - DIO (Digital Innovation One) - Concluída :white_check_mark:</li>
-<br>
-<li align = "center">:mechanical_arm: Introdução à Engenharia com Arduino - Udemy -Concluída :white_check_mark:</li>
-<br>
-<li align = "center">:whale2:	Docker para Desenvolvedores - Udemy - Concluída :white_check_mark:</li>
-<br>
-<li align = "center">:elephant: PHP do Zero à Maestria - Udemy - Concluída :white_check_mark:</li>
+<ul style="list-style-type: none; padding: 1; text-align: center;">
+    <li style="display: inline-block;">🎓 Bacharelado em Ciência da Computação - FPB (Faculdade Internacional da Paraíba) - Em andamento ⚙️</li>
+    <li style="display: inline-block;">🌐 Formação HTML Web Developer - DIO (Digital Innovation One) - Concluída :white_check_mark:</li>
+    <li style="display: inline-block;">🚀 Formação JavaScript Developer - DIO (Digital Innovation One) - Concluída :white_check_mark:</li>
+    <li style="display: inline-block;">🖥️ Lógica de Programação - DIO (Digital Innovation One) - Concluída :white_check_mark:</li>
+    <li style="display: inline-block;">:mechanical_arm: Introdução à Engenharia com Arduino - Udemy - Concluída :white_check_mark:</li>
+    <li style="display: inline-block;">:whale2: Docker para Desenvolvedores - Udemy - Concluída :white_check_mark:</li>
+    <li style="display: inline-block;">:elephant: PHP do Zero à Maestria - Udemy - Concluída :white_check_mark:</li>
+</ul>
+
 
 </p>
  
