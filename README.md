@@ -39,8 +39,8 @@
   </p>
 
   <p align="center">
-  <a href="https://github.com/Cyberfn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberfn&layout=donut&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/Cyberfn" >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberfn&layout=compact&langs_count=7&theme=midnight-purple"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyberfn&show_icons=true&theme=midnight-purple"/>
 <p align="center">
   <img width="425" src="https://streak-stats.demolab.com/?user=Cyberfn&theme=midnight-purple"/>
