@@ -19,7 +19,6 @@
     <li style="display: inline-block;">🚀 Formação JavaScript Developer - DIO (Digital Innovation One) - Concluída :white_check_mark:</li>
     <li style="display: inline-block;">🖥️ Lógica de Programação - DIO (Digital Innovation One) - Concluída :white_check_mark:</li>
     <li style="display: inline-block;">:mechanical_arm: Introdução à Engenharia com Arduino - Udemy - Concluída :white_check_mark:</li>
-    <li style="display: inline-block;">:whale2: Docker para Desenvolvedores - Udemy - Concluída :white_check_mark:</li>
     <li style="display: inline-block;">:elephant: PHP do Zero à Maestria - Udemy - Concluída :white_check_mark:</li>
 </ul>
 
@@ -30,9 +29,7 @@
   <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -40,13 +37,14 @@
   </p>
 
   <p align="center">
-  <a href="https://github.com/Cyberfn" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberfn&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyberfn&show_icons=true&theme=midnight-purple"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberfn&layout=compact&langs_count=20&theme=midnight-purple" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyberfn&show_icons=true&theme=midnight-purple" height="220"/>
+</p>
+
 <p align="center">
   <img width="425" src="https://streak-stats.demolab.com/?user=Cyberfn&theme=midnight-purple"/>
 </p>
-</center>
+
       
 <h2 align = "center">:envelope: Contatos :envelope:</h2>
  <p align = "center">
