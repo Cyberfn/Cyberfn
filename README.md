@@ -1,32 +1,28 @@
-<p> 
 <h1 align="center">
-    Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/fernando-nonato-014974236">Fernando Nonato 🖖🏻</a><br>Bem vindo ao meu perfil GitHub</h1>
+    Oi, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/fernando-nonato-014974236" target="_blank">Fernando Nonato 🖖🏻</a><br>Bem-vindo ao meu perfil GitHub!
+</h1>
+
+<h2 align="center">:man_technologist: Sobre mim :man_technologist:</h2>
+<p align="center">
+    Olá! 👋 Sou o Fernando e, desde cedo, cultivo uma paixão constante por tecnologia, imergindo nas complexidades do desenvolvimento de software. <br><br>
+    🖥️ Ao longo do tempo, desenvolvi um interesse sólido e duradouro por tecnologia, explorando minuciosamente o universo do desenvolvimento de software. <br><br>
+    💡 Tenho uma atração especial pelas intrincadas tecnologias de backend, onde busco incessantemente aprimorar minhas habilidades. <br><br>
+    🚀 Encaro desafios como oportunidades de crescimento e tenho prazer em aprender novas tecnologias, mantendo-me sempre atualizado no dinâmico cenário tecnológico.
 </p>
 
-<h2 align = "center">:man_technologist:Sobre mim:man_technologist:</h2>
-<p>
-    Olá! 👋 Sou o Fernando e, desde cedo, cultivo uma paixão constante por tecnologia, imergindo nas complexidades do desenvolvimento de software.<br>
- <li>🖥️ Ao longo do tempo, desenvolvi um interesse sólido e duradouro por tecnologia, explorando minuciosamente o universo do desenvolvimento de software.</li><br>
- <li>💡 Tenho uma atração especial pelas intrincadas tecnologias de backend, onde busco incessantemente aprimorar minhas habilidades.</li><br>
- <li>🚀 Encaro desafios como oportunidades de crescimento e tenho prazer em aprender novas tecnologias, mantendo-me sempre atualizado no dinâmico cenário tecnológico.</li><br>
-</p>
+<h2 align="center">🎓 Formações 🎓</h2>
 
-<h2 align = "center">🎓Formações🎓</h2>
-
-<ul style="list-style-type: none; padding: 1; text-align: center;">
-    <li style="display: inline-block;">🎓 Bacharelado em Ciência da Computação - FPB (Faculdade Internacional da Paraíba) - Em andamento ⚙️</li>
-    <li style="display: inline-block;">🌐 Formação HTML Web Developer - DIO (Digital Innovation One) - Concluída :white_check_mark:</li>
-    <li style="display: inline-block;">🚀 Formação JavaScript Developer - DIO (Digital Innovation One) - Concluída :white_check_mark:</li>
-    <li style="display: inline-block;">🖥️ Lógica de Programação - DIO (Digital Innovation One) - Concluída :white_check_mark:</li>
-    <li style="display: inline-block;">:mechanical_arm: Introdução à Engenharia com Arduino - Udemy - Concluída :white_check_mark:</li>
-    <li style="display: inline-block;">:elephant: PHP do Zero à Maestria - Udemy - Concluída :white_check_mark:</li>
+<ul style="list-style-type: none; padding: 0; text-align: center;">
+    <li>🎓 Bacharelado em Ciência da Computação - FPB (Faculdade Internacional da Paraíba) - Em andamento ⚙️</li>
+    <li>🌐 Formação HTML Web Developer - DIO (Digital Innovation One) - Concluída ✅</li>
+    <li>🚀 Formação JavaScript Developer - DIO (Digital Innovation One) - Concluída ✅</li>
+    <li>🖥️ Lógica de Programação - DIO (Digital Innovation One) - Concluída ✅</li>
+    <li>🤖 Introdução à Engenharia com Arduino - Udemy - Concluída ✅</li>
+    <li>🐘 PHP do Zero à Maestria - Udemy - Concluída ✅</li>
 </ul>
 
-
-</p>
- 
-<h2 align = "center">:brain: Conhecimentos :brain: </h2>
-  <p align="center">
+<h2 align="center">:brain: Conhecimentos :brain:</h2>
+<p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
@@ -36,27 +32,22 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  </p>
-
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberfn&layout=compact&langs_count=20&theme=midnight-purple" height="220"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyberfn&show_icons=true&theme=midnight-purple" height="220"/>
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberfn&layout=compact&langs_count=20&theme=midnight-purple" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyberfn&show_icons=true&theme=midnight-purple" height="220"/>
   <img width="425" src="https://streak-stats.demolab.com/?user=Cyberfn&theme=midnight-purple"/>
 </p>
 
-      
-<h2 align = "center">:envelope: Contatos :envelope:</h2>
- <p align = "center">
+<h2 align="center">:envelope: Contatos :envelope:</h2>
+<p align="center">
 <a href = "mailto:fernandononatocco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
 <a href="https://www.linkedin.com/in/fernando-nonato-014974236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
- </p>
+</p>
 
-
-<h2 align = "center"> 🛠 Ferramentas que uso 🛠 </h2>
-<p align = "center">
+<h2 align="center"> 🛠 Ferramentas que uso 🛠 </h2>
+<p align="center">
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 <img src ="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -65,4 +56,5 @@
 </p>
 
 <p align="center"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cyberfn}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cyberfn}/count.svg" /></p>
+"
