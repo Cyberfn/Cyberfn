@@ -14,11 +14,6 @@
 
 <ul style="list-style-type: none; padding: 0; text-align: center;">
     <li>🎓 Bacharelado em Ciência da Computação - FPB (Faculdade Internacional da Paraíba) - Em andamento ⚙️</li>
-    <li>🌐 Formação HTML Web Developer - DIO (Digital Innovation One) - Concluída ✅</li>
-    <li>🚀 Formação JavaScript Developer - DIO (Digital Innovation One) - Concluída ✅</li>
-    <li>🖥️ Lógica de Programação - DIO (Digital Innovation One) - Concluída ✅</li>
-    <li>🤖 Introdução à Engenharia com Arduino - Udemy - Concluída ✅</li>
-    <li>🐘 PHP do Zero à Maestria - Udemy - Concluída ✅</li>
 </ul>
 
 <h2 align="center">:brain: Conhecimentos :brain:</h2>
