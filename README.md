@@ -33,6 +33,32 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberfn&layout=compact&langs_count=20&theme=midnight-purple" height="220"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Cyberfn&show_icons=true&theme=midnight-purple" height="220"/>
   <img width="425" src="https://streak-stats.demolab.com/?user=Cyberfn&theme=midnight-purple"/>
+    <p align="center">
+  <a
+    href="https://github.com/ryo-ma/Cyberfn"
+    title="repositório de troféus"
+  >
+    <div style="text-align: center;">
+  <img
+    width="1000"
+    src="https://github-profile-trophy.vercel.app/?username=Cyberfn&column=8&theme=darkhub&no-frame=true&no-bg=true"
+  />
+</div>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
 </p>
 
 <h2 align="center">:envelope: Contatos :envelope:</h2>
