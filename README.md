@@ -4,10 +4,8 @@
 
 <h2 align="center">:man_technologist: Sobre mim :man_technologist:</h2>
 <p align="center">
-    Olá! 👋 Sou o Fernando e, desde cedo, cultivo uma paixão constante por tecnologia, imergindo nas complexidades do desenvolvimento de software. <br><br>
-    🖥️ Ao longo do tempo, desenvolvi um interesse sólido e duradouro por tecnologia, explorando minuciosamente o universo do desenvolvimento de software. <br><br>
-    💡 Tenho uma atração especial pelas intrincadas tecnologias de backend, onde busco incessantemente aprimorar minhas habilidades. <br><br>
-    🚀 Encaro desafios como oportunidades de crescimento e tenho prazer em aprender novas tecnologias, mantendo-me sempre atualizado no dinâmico cenário tecnológico.
+    Olá! 👋 Sou o Fernando, apaixonado por tecnologia e desenvolvimento de software. <br>
+    Gosto de enfrentar desafios como oportunidades de crescimento e estou sempre em busca de aprender e me atualizar.
 </p>
 
 <h2 align="center">🎓 Formações 🎓</h2>
