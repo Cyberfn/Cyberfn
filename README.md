@@ -32,15 +32,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Cyberfn&show_icons=true&theme=midnight-purple" height="240"/>
   <img width="425" src="https://streak-stats.demolab.com/?user=Cyberfn&theme=midnight-purple"/>
     <p align="center">
-  <a
-    href="https://github.com/ryo-ma/Cyberfn"
-    title="repositório de troféus"
-  >
+  <a href="https://github.com/ryo-ma/Cyberfn"title="repositório de troféus" >
     <div style="text-align: center;">
-  <img
-    width="1000"
-    src="https://github-profile-trophy.vercel.app/?username=Cyberfn&column=8&theme=darkhub&no-frame=true&no-bg=true"
-  />
+  <img width="1000" src="https://github-profile-trophy.vercel.app/?username=Cyberfn&column=8&theme=darkhub&no-frame=true&no-bg=true">
 </div>
   </a>
 </p>
