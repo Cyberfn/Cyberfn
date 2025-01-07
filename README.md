@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberfn&layout=compact&langs_count=20&theme=midnight-purple" height="240"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberfn&layout=compact&langs_count=20&theme=midnight-purple" height="240"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Cyberfn&show_icons=true&theme=midnight-purple" height="240"/>
   <img width="425" src="https://streak-stats.demolab.com/?user=Cyberfn&theme=midnight-purple"/>
     <p align="center">
