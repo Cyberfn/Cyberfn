@@ -17,7 +17,7 @@
 <h2 align="center">:brain: Conhecimentos :brain:</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-  <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -28,31 +28,33 @@
 </p>
 
 <p align="center">    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberfn&layout=compact&langs_count=20&theme=midnight-purple" height="240"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=cyberfn&show_icons=true&theme=midnight-purple" height="240"/>
-  <img width="425" src="https://streak-stats.demolab.com/?user=cyberfn&theme=midnight-purple"/>
-    <p align="center">
-  <a href="https://github.com/ryo-ma/cyberfn"title="repositório de troféus">
-    <div style="text-align: center;">
-  <img width="1000" src="https://github-profile-trophy.vercel.app/?username=cyberfn&column=8&theme=darkhub&no-frame=true&no-bg=true">
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberfn&layout=compact&langs_count=20&theme=midnight-purple" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cyberfn&show_icons=true&theme=midnight-purple" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=cyberfn&theme=midnight-purple" height="180"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/cyberfn" title="repositório de troféus">
+    <img src="https://github-profile-trophy.vercel.app/?username=cyberfn&column=8&theme=darkhub&no-frame=true&no-bg=true" width="1000">
   </a>
 </p>
 
 <h2 align="center">:envelope: Contatos :envelope:</h2>
 <p align="center">
-<a href = "mailto:fernandononatocco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
-<a href="https://www.linkedin.com/in/fernando-nonato-014974236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="mailto:fernandononatocco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/fernando-nonato-014974236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <h2 align="center"> 🛠 Ferramentas que uso 🛠 </h2>
 <p align="center">
-<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-<img src ="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-<img src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 </p>
 
 <p align="center"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cyberfn}/count.svg" /></p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Cyberfn}/count.svg">
+</p>
